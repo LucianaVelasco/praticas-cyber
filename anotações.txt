@@ -1,1 +1,1 @@
-Comandos utilizados: ping google.com
+Comandos utilizados: ping google.com #envia pacotes de dados para os servidores do Google e mede o tempo de resposta, ajudando a verificar se você tem acesso à internet, se o DNS está funcionando e qual é a latência (atraso) da sua conexão
